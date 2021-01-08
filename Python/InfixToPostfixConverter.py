@@ -1,5 +1,5 @@
 """InfixToPostfixConverter.py: Converts infix expressions to postfix expressions"""
-__author__ = "Louis Silva"
+__author__ = "DarthFigo"
 from time import sleep
 import re
 
