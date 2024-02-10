@@ -1,5 +1,4 @@
 """PostfixEvaluator.py: Evaluates postfix expressions"""
-__author__ = "DarthFigo"
 from time import sleep
 
 
